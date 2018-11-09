@@ -16,4 +16,4 @@ In this image you can see a breadboard build up with all supported components.
 - D6: Analog Output 2
 - D7: Input from DHT22 temperature and humidity sensor
 - D8: Output to Servo or Speaker (not implemented in code yet)
-
+- ADC: Analog Input (e.g. potentiometer, PIR, etc.)
