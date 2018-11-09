@@ -18,4 +18,9 @@ Fast and easy prototyping with the NodeMCU (with ESP8266).
 - ADC: Analog Input (e.g. potentiometer, PIR, etc.)
 
 ![fritzing diagram](img/fritzing-diagram-breadboard.jpg)
-In this image you can see a breadboard build up with all supported components.
+In this image you can see a breadboard build up with all supported components. The LEDs on D0 and D4 can be left away since there are internal LEDs on the NodeMCU
+
+![pcb](img/pcb-image-r02.jpg)
+This is the PCB layout of a more compact and sustainable version. It is the R02 version currently in production. 
+
+
