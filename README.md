@@ -4,8 +4,7 @@ This project is currently under development.
 
 Fast and easy prototyping with the NodeMCU (with ESP8266). 
 
-![fritzing diagram](img/fritzing-diagram-breadboard.jpg)
-In this image you can see a breadboard build up with all supported components.
+![schematics](img/schematics.gif)
 
 - D0: Output LED1 showing if Digital Input 1 is high or low (internal LED1 on NodeMCU is working as well)
 - D1: Digital Input 1
@@ -17,3 +16,6 @@ In this image you can see a breadboard build up with all supported components.
 - D7: Input from DHT22 temperature and humidity sensor
 - D8: Output to Servo or Speaker (not implemented in code yet)
 - ADC: Analog Input (e.g. potentiometer, PIR, etc.)
+
+![fritzing diagram](img/fritzing-diagram-breadboard.jpg)
+In this image you can see a breadboard build up with all supported components.
