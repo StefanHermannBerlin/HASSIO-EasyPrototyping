@@ -30,7 +30,7 @@ The configuration is mainly done through the firmware, the software running the 
 
 ## Building the General Sensor/Actuator
 
-![GSA PCB Layout](gsa-pcb-layout.gif)
+![GSA PCB Layout](img/gsa-pcb-layout.gif)
 
 BOM
 - 2x 90° 1x3 pin header female
@@ -56,7 +56,7 @@ Building the GSA is relatively easy. You can order the PCBs using the files cont
 - DHT22
 - Capacitor 1000uF
 
-![GSA Schematics](gsa-schematics.gif)
+![GSA Schematics](img/gsa-schematics.gif)
 
 ## GSA configuration
 
@@ -191,6 +191,6 @@ myGSA1_card:
 
 Now reboot your system. After the reboot, you should see the myGSA1 card in Hass.io.
 
-![GSA Group Card](hassio_mygsa_group.gif)
+![GSA Group Card](img/hassio_mygsa_group.gif)
 
 I hope you find this setup as useful as I do. Have fun!
