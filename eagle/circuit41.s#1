@@ -11749,7 +11749,7 @@ Source: http://products.nichicon.co.jp/en/pdf/XJA043/e-ud.pdf</description>
 <segment>
 <pinref part="C1" gate="G$1" pin="+"/>
 <wire x1="88.9" y1="121.92" x2="88.9" y2="129.54" width="0.1524" layer="91"/>
-<label x="86.36" y="129.54" size="1.778" layer="95"/>
+<label x="88.9" y="129.54" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="RELOUT1" class="0">
